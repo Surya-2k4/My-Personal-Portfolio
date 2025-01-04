@@ -20,9 +20,8 @@ Check out the live demo here: [Your Portfolio Website](#)
 Suggestions and improvements are always welcome! Feel free to fork the repository and create a pull request.
 
 ## 📧 Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/surya-2k4/)
-- **Instagram**: [Your Instagram Profile](https://www.instagram.com/yourusername/)
+- **Email**: [suryanatarajan04@gmail.com](mailto:suryanatarajan04.com)
+- **LinkedIn**: [surya2k4](https://www.linkedin.com/in/surya-2k4/)
+- **Instagram**: [suryx_frexkz](https://www.instagram.com/suryx_frexkz/)
 
-## ⭐ Show Your Support
-If you like this project, please give it a ⭐ on GitHub!
+
